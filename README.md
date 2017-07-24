@@ -1,7 +1,7 @@
 # Weather App
 Weather app using OpenWeatherMap API.
 ## Technologies used
-* [Android Studio] (https://developer.android.com/studio/index.html) - IDE, develop Android apps on.
+* [Android Studio](https://developer.android.com/studio/index.html) - IDE, develop Android apps on.
 * [OpenWeatherMap](https://openweathermap.org/) - API, retrieve JSON files containing weather information.
 * [Volley](https://github.com/google/volley) - grab data from API
 * [Moshi](https://github.com/square/moshi)/[gson](https://github.com/google/gson) - read JSON files as objects.
