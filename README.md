@@ -1,10 +1,10 @@
 # Weather App
-Weather app using OpenWeatherMap API. [GitHub Repo](https://github.com/ConnorLee2/WeatherApp)
+Weather app using OpenWeatherMap API.
 ## Technologies used
 * Android Studio - IDE, develop Android apps on.
-* OpenWeatherMap - API, retrieve JSON files containing weather information.
-* Volley - grab data from API
-* Moshi/gson - read JSON files as objects.
+* [OpenWeatherMap](https://openweathermap.org/) - API, retrieve JSON files containing weather information.
+* [Volley](https://github.com/google/volley) - grab data from API
+* [Moshi](https://github.com/square/moshi)/[gson](https://github.com/google/gson) - read JSON files as objects.
 * Weather icons -
 [Weather icons PNG](http://fa2png.io/r/weather-icons/),
 [Weather icons creator](http://erikflowers.github.io/weather-icons/)
