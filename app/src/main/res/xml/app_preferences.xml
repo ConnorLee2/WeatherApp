@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Forecast settings -->
+    <PreferenceCategory
+        android:key="pref_key_appearance_settings"
+        android:title="Forecast">
+        <SwitchPreference
+            android:key="pref_key_forecast_view"
+            android:summaryOff="Weekly weather"
+            android:summaryOn="Current Weather"
+            android:title="Default forecast view" />
+        <ListPreference
+            android:dialogTitle="Temperature"
+            android:entries="@array/temperatureEntries"
+            android:entryValues="@array/temperatureValues"
+            android:key="pref_key_temperature"
+            android:title="Temperature" />
+    </PreferenceCategory>
+    <!-- About us settings -->
+    <PreferenceCategory android:title="About Us">
+        <Preference
+            android:key="pref_key_about_info"
+            android:summary="1.0"
+            android:title="Weather App" />
+    </PreferenceCategory>
+</PreferenceScreen>

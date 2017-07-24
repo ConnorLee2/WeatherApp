@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <!-- main activity -->
+    <string name="location_image">City image</string>
+    <string name="city">City</string>
+    <string name="country">Country</string>
+    <string name="current_weather_forecast">Current Weather forecast</string>
+    <string name="weekly_weather_forecast">Weekly Weather forecast</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+
+    <!-- current weather -->
+    <string name="weather_icon">Weather icon</string>
+    <string name="current_date">Today</string>
+    <string name="weather_description">Weather description</string>
+    <string name="temperature">Temperature</string>
+    <string name="tomorrow_date">Tomorrow</string>
+
+    <!-- weekly weather -->
+    <string name="weekly_date">Date</string>
+</resources>
