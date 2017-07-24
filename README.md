@@ -17,7 +17,7 @@ weekly forecast view.
 * I store a raw citylist.json obtained from [City List](http://bulk.openweathermap.org/sample/city.list.json.gz) and
 search that file for city IDs used in the OpenWeatherMap API.
 
-### Screenshots
+## Screenshots
 ![alt text](https://raw.githubusercontent.com/ConnorLee2/WeatherApp/master/Other/Screenshots/default.jpeg "default")
 ![alt text](https://raw.githubusercontent.com/ConnorLee2/WeatherApp/master/Other/Screenshots/current_forecast.jpeg "current forecast")
 ![alt text](https://raw.githubusercontent.com/ConnorLee2/WeatherApp/master/Other/Screenshots/weekly_forecast.jpeg "weekly forecast")
