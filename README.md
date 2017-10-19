@@ -1,7 +1,7 @@
 # Weather App
-Weather app using OpenWeatherMap API.
+Weather app using OpenWeatherMap API. APK available inside the Other folder.
 ## Technologies used
-* [Android Studio](https://developer.android.com/studio/index.html) - IDE, develop Android apps on.
+* [Android Studio](https://developer.android.com/studio/index.html) - IDE, to develop Android apps on.
 * [OpenWeatherMap](https://openweathermap.org/) - API, retrieve JSON files containing weather information.
 * [Volley](https://github.com/google/volley) - grab data from API.
 * [Moshi](https://github.com/square/moshi)/[gson](https://github.com/google/gson) - read JSON files as objects.
@@ -10,7 +10,7 @@ Weather app using OpenWeatherMap API.
 [made by erikflowers](http://erikflowers.github.io/weather-icons/)
 
 ## Explanations
-* To use the app, first search for your city in the search bar. Then you can swap between the current forecast view and the
+* To use the app, first search for your city in the search bar. Then, you can swap between the current forecast view and the
 weekly forecast view.
 * AppController.java is in its own directory "app".
 * Forecast.java, List.java, Main.java, Weather.java, WeeklyForecast.java are stored in "forecast" folder.
