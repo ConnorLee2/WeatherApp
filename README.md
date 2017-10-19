@@ -3,7 +3,7 @@ Weather app using OpenWeatherMap API. APK available inside the Other folder.
 
 ## How to use
 * Search for your city using search bar. 
-* Swap between current forecast view and weekly forecast view, simply tap on "Current Weather forecast" and vice versa.
+* Swap between current forecast view and weekly forecast view by simply tapping on "Current Weather forecast" and vice versa.
 * Access settings by tapping on the 'gear' icon.
 
 ## Technologies used
