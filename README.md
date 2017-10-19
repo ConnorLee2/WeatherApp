@@ -10,12 +10,10 @@ Weather app using OpenWeatherMap API. APK available inside the Other folder.
 [made by erikflowers](http://erikflowers.github.io/weather-icons/).
 
 ## Explanations
-* To use the app, first search for your city in the search bar. Then, you can swap between the current forecast view and the
-weekly forecast view by tapping on the "Current weather forecast" or "Weekly weather forecast".
-* AppController.java is in its own directory "app".
-* Forecast.java, List.java, Main.java, Weather.java, WeeklyForecast.java are stored in "forecast" folder.
-* I store a raw citylist.json obtained from [City List](http://bulk.openweathermap.org/sample/city.list.json.gz) and
-search that file for city IDs used in the OpenWeatherMap API.
+* Using the app: 
+  * Search for your city using search bar. 
+  * To swap between current forecast view and weekly forecast view, simply tap on "Current Weather forecast" and vice versa.
+* A raw citylist.json is stored locally which is searched for city IDs required by the OpenWeatherMap API. Obtained from [City List](http://bulk.openweathermap.org/sample/city.list.json.gz).
 
 ## Screenshots
 ![alt text](https://raw.githubusercontent.com/ConnorLee2/WeatherApp/master/Other/Screenshots/default.jpeg "default")
