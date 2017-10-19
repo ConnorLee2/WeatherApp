@@ -11,7 +11,7 @@ Weather app using OpenWeatherMap API. APK available inside the Other folder.
 
 ## Explanations
 * To use the app, first search for your city in the search bar. Then, you can swap between the current forecast view and the
-weekly forecast view by tapping on the "current forecast view" or "weekly forecast view".
+weekly forecast view by tapping on the "Current weather forecast" or "Weekly weather forecast".
 * AppController.java is in its own directory "app".
 * Forecast.java, List.java, Main.java, Weather.java, WeeklyForecast.java are stored in "forecast" folder.
 * I store a raw citylist.json obtained from [City List](http://bulk.openweathermap.org/sample/city.list.json.gz) and
