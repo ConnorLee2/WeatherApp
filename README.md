@@ -9,11 +9,9 @@ Weather app using OpenWeatherMap API. APK available inside the Other folder.
 [Weather icons PNG](http://fa2png.io/r/weather-icons/),
 [made by erikflowers](http://erikflowers.github.io/weather-icons/).
 
-## Explanations
-* Using the app: 
-  * Search for your city using search bar. 
-  * To swap between current forecast view and weekly forecast view, simply tap on "Current Weather forecast" and vice versa.
-* A raw citylist.json is stored locally which is searched for city IDs required by the OpenWeatherMap API. Obtained from [City List](http://bulk.openweathermap.org/sample/city.list.json.gz).
+## How to use
+* Search for your city using search bar. 
+* To swap between current forecast view and weekly forecast view, simply tap on "Current Weather forecast" and vice versa.
 
 ## Screenshots
 ![alt text](https://raw.githubusercontent.com/ConnorLee2/WeatherApp/master/Other/Screenshots/default.jpeg "default")
