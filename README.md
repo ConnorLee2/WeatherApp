@@ -4,6 +4,7 @@ Weather app using OpenWeatherMap API. APK available inside the Other folder.
 ## Screenshots
 ![alt text](https://raw.githubusercontent.com/ConnorLee2/WeatherApp/master/Other/Screenshots/default.jpeg "default")
 ![alt text](https://raw.githubusercontent.com/ConnorLee2/WeatherApp/master/Other/Screenshots/current_forecast.jpeg "current forecast")
+<br />
 ![alt text](https://raw.githubusercontent.com/ConnorLee2/WeatherApp/master/Other/Screenshots/weekly_forecast.jpeg "weekly forecast")
 ![alt text](https://raw.githubusercontent.com/ConnorLee2/WeatherApp/master/Other/Screenshots/settings.jpeg "settings")
 
